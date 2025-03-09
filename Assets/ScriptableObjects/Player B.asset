@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 41ccd0e926a6ab642ae412e8420f306f, type: 3}
+  m_Name: Player B
+  m_EditorClassIdentifier: 
+  characterName: Jack
+  maxHP: 120
+  currentHP: 120
+  maxMP: 20
+  currentMP: 20
+  attack: 5
+  defense: 15
+  speed: 2
+  spellPower: 2
+  spellCost: 2
+  isDefending: 0
+  battlerSprite: {fileID: -1306354738, guid: e4dbd9704f6ebff4e9510bd53b3e2f1d, type: 3}
